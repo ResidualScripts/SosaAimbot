@@ -2,7 +2,7 @@
 
 local aimbot = {
     Enabled = false,
-    Key = Enum.UserInputType.MouseButton4,
+    Key = Enum.UserInputType.XButton1,
     Players = false,
     PlayerPart = 'Head',
     FriendlyPlayers = {},
